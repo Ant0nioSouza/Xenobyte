@@ -7,7 +7,7 @@ import cpw.mods.fml.common.event.FMLLoadCompleteEvent;
 import forgefuck.team.xenobyte.api.Xeno;
 import forgefuck.team.xenobyte.handlers.ModuleHandler;
 
-@Mod(modid = Xeno.mod_id, name = Xeno.mod_name, version = Xeno.mod_version)
+@Mod(modid = "aether_legacy", version = "v1.1.2.2")
 
 public class XenoByte {
     
